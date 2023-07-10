@@ -1,0 +1,27 @@
+.Login {
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  transform: translate(-50%, -50%);
+  color: white;
+
+}
+
+.Login-header {
+  text-align: center;
+  font-size: 25px;
+}
+
+.Login-form {
+  margin: 0 auto;
+  margin-top: 15px;
+  background-color: hsla(210, 18%, 87%, 1);
+  border-radius: 6px;
+  height: 300px;
+  width: 300px;
+  padding: 50px;
+}
+
+.Login-button {
+  display: block;
+}

@@ -1,0 +1,32 @@
+.Home {
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  top: 45%;
+  transform: translate(-50%, -50%);
+}
+
+.Home-header {
+  font-size: 35px;
+  color: white;
+}
+
+.Home-bar {
+  padding: 10px 10px;
+  color: white;
+}
+
+.HomeNav {
+  padding-top: 10px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.Home a {
+  color: white;
+}
+
+.Home a:hover {
+  color: rgb(82, 217, 234);
+}
